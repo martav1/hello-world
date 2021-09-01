@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi!
+
+I like coding. I play video games. I am in college.
